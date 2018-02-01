@@ -1,2 +1,1 @@
-# m
-SBminer
+# SBminer
